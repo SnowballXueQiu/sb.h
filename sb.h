@@ -1,7 +1,6 @@
 #ifndef SB_H
 #define SB_H
 
-// words
 #define mian main
 #define incude include
 #define stadin std::cin
@@ -12,16 +11,5 @@
 #define retrun return
 #define constrauctor constructor
 #define destrouctor destructor
-
-// symbols
-#define “ "
-#define ” "
-#define ‘ '
-#define ’ '
-#define ， ,
-#define （ (
-#define ）)
-#define ； ;
-#define ： :
 
 #endif
