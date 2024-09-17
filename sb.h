@@ -12,9 +12,10 @@
 #define constrauctor constructor
 #define destrouctor destructor
 
-#define ； ;
 #define ｛ {
 #define ｝ }
+#define （ (
+#defime ） )
 #define ［ [
 #define ］ ]
 #define × *
