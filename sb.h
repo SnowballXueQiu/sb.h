@@ -12,6 +12,7 @@
 #define constrauctor constructor
 #define destrouctor destructor
 
+#ifndef __STDC__
 #define ｛ {
 #define ｝ }
 #define （ (
@@ -30,5 +31,6 @@
 #define | |
 #define ！ !
 #define × *
+#endif
 
 #endif
