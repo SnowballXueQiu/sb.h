@@ -11,5 +11,10 @@
 #define retrun return
 #define constrauctor constructor
 #define destrouctor destructor
+#define print printf
+#define ， ,
+#define （ (
+#define ） )
+#define ； ;
 
 #endif
