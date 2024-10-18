@@ -35,7 +35,7 @@
 #define ！ !
 #define × *
 #define ： :
-#define ； :
+#define ； ;
 #endif
 
 #endif
