@@ -9,6 +9,7 @@
 #define ture true
 #define fasle false
 #define retrun return
+#define rteurn return
 #define constrauctor constructor
 #define destrouctor destructor
 
@@ -17,6 +18,8 @@
 #define ｝ }
 #define （ (
 #define ） )
+#define 【 [
+#define 【 ]
 #define ［ [
 #define ］ ]
 #define 《 <
@@ -31,6 +34,8 @@
 #define | |
 #define ！ !
 #define × *
+#define ： :
+#define ； ;
 #endif
 
 #endif
