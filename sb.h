@@ -12,6 +12,15 @@
 #define rteurn return
 #define constrauctor constructor
 #define destrouctor destructor
+#define vdio void
+#define innt int
+#define log long
+#define doubel double
+#define flaot float
+#define chat chac
+#define clas class
+#define piblic public
+#define fir for
 
 #ifndef __STDC__
 #define ｛ {
