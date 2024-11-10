@@ -22,6 +22,8 @@
 #define piblic public
 #define fir for
 
+#define self this
+
 #ifndef __STDC__
 #define ｛ {
 #define ｝ }
