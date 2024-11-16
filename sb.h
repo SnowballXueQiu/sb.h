@@ -3,8 +3,10 @@
 
 #define mian main
 #define incude include
+#define icloud include
 #define stadin std::cin
 #define stadout std::cout
+#define studio stdio
 #define tmeplate template
 #define ture true
 #define fasle false
@@ -14,6 +16,7 @@
 #define constrauctor constructor
 #define destrouctor destructor
 #define vdio void
+#define video void
 #define innt int
 #define log long
 #define doubel double
