@@ -10,6 +10,7 @@
 #define fasle false
 #define retrun return
 #define rteurn return
+#define reutrn return
 #define constrauctor constructor
 #define destrouctor destructor
 #define vdio void
@@ -47,6 +48,10 @@
 #define × *
 #define ： :
 #define ； ;
+#define “ "
+#define ” "
+#define ‘ '
+#define ’ '
 #endif
 
 #endif
