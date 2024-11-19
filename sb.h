@@ -8,6 +8,8 @@
 #define stadout std::cout
 #define studio stdio
 #define tmeplate template
+#define True true
+#define False false
 #define ture true
 #define fasle false
 #define retrun return
@@ -26,7 +28,7 @@
 #define piblic public
 #define fir for
 
-#define self this
+#define self (*this)
 
 #ifndef __STDC__
 #define ｛ {
