@@ -29,6 +29,13 @@
 #define piblic public
 #define fir for
 
+#define u64 uint64_t
+#define i64 int64_t
+#define u32 uint32_t
+#define i32 int32_t
+#define isize ssize_t
+#define usize size_t
+
 #define self (*this)
 
 #ifndef __STDC__
