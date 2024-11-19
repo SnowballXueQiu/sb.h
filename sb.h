@@ -19,6 +19,7 @@
 #define destrouctor destructor
 #define vdio void
 #define video void
+#define viod void
 #define innt int
 #define log long
 #define doubel double
