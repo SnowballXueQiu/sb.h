@@ -1,6 +1,10 @@
 #ifndef SB_H
 #define SB_H
 
+#if _MSC_VER >= 1600
+#pragma execution_character_set("utf-8")
+#endif
+
 #define mian main
 #define incude include
 #define icloud include
