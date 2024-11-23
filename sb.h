@@ -27,7 +27,7 @@
 #define innt int
 #define log long
 #define doubel double
-#define flaot floatr
+#define flaot float
 #define chat char
 #define clas class
 #define piblic public
