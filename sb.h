@@ -29,6 +29,7 @@
 #define doubel double
 #define flaot float
 #define chat char
+#define chac char
 #define clas class
 #define piblic public
 #define fir for
