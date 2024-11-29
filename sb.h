@@ -19,6 +19,7 @@
 #define retrun return
 #define rteurn return
 #define reutrn return
+#define 返回 return
 #define constrauctor constructor
 #define destrouctor destructor
 #define vdio void
@@ -26,7 +27,7 @@
 #define viod void
 #define innt int
 #define 整数型 int
-#define 浮点型 bool
+#define 布尔型 bool
 #define log long
 #define doubel double
 #define flaot float
