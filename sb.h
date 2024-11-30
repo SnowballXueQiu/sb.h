@@ -33,6 +33,9 @@
 #define clas class
 #define piblic public
 #define fir for
+#define fi if
+#define whiel while 
+#define whiie while 
 
 #define u64 uint64_t
 #define i64 int64_t
