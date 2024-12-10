@@ -36,6 +36,8 @@
 #define fi if
 #define whiel while 
 #define whiie while 
+#define cosnt const
+#define cosntexpr constexpr
 
 #define u64 uint64_t
 #define i64 int64_t
