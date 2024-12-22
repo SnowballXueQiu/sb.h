@@ -17,7 +17,7 @@
 2. 然后尽情地犯错吧！放心，`sb.h` 会替你纠正这些错误。
 
     ```cpp
-    #incude <iostream> // incude? 忘了那个 'l' 吗？别担心，我们懂你的心。
+    #include <iostream>
     
     int mian() { // mian? 别怀疑，就是 mian！
         stadout << "Hello, world!" << std::endl; // stadout? 我们知道你想要 std::cout。
@@ -36,7 +36,7 @@
 
 ## 包含的错误类型
 
-- **拼写错误**：`mian`、`incude`、`retrun` 等等。
+- **拼写错误**：`mian`、`retrun` 等等。
 
 ## 注意事项
 
