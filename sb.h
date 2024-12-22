@@ -6,8 +6,6 @@
 #endif
 
 #define mian main
-#define incude include
-#define icloud include
 #define stadin std::cin
 #define stadout std::cout
 #define studio stdio
