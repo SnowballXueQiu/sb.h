@@ -1,5 +1,7 @@
 # sb.h —— 让你的 C++ 代码秒变“优秀”！
 
+- [关联阅读](https://blog.qwq.my/posts/life/shocked-i-have-been-targeted)
+
 你是否曾经在 C++ 编程中被奇怪的拼写错误困扰？你是否曾为了一个迷之 “mian” 而对着电脑苦苦凝视？或者因为一句 `retrun` 而想要扔掉键盘？别担心！`sb.h` 正是为你而生！
 
 ## 什么是 sb.h？
