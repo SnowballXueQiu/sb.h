@@ -36,6 +36,7 @@
 #define whiie while 
 #define cosnt const
 #define cosntexpr constexpr
+#define szieof sizeof
 
 #define u64 uint64_t
 #define i64 int64_t
