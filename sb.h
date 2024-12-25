@@ -6,6 +6,7 @@
 #endif
 
 #define cls class
+#define flota float
 #define mian main
 #define stadin std::cin
 #define stadout std::cout
