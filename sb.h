@@ -5,6 +5,8 @@
 #pragma execution_character_set("utf-8")
 #endif
 
+#define cls class
+#define flota float
 #define mian main
 #define stadin std::cin
 #define stadout std::cout
