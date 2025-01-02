@@ -23,7 +23,6 @@
 #define video void
 #define viod void
 #define innt int
-#define log long
 #define doubel double
 #define flaot float
 #define chat char
