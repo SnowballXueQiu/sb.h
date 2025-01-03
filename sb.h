@@ -5,6 +5,8 @@
 #pragma execution_character_set("utf-8")
 #endif
 
+#include <iostream>
+
 #define mian main
 #define stadin std::cin
 #define stadout std::cout
@@ -31,10 +33,11 @@
 #define piblic public
 #define fir for
 #define fi if
-#define whiel while 
-#define whiie while 
+#define whiel while
+#define whiie while
 #define cosnt const
 #define cosntexpr constexpr
+
 
 #define u64 uint64_t
 #define i64 int64_t
@@ -45,6 +48,57 @@
 
 #define self (*this)
 
+// Python-like macros
+#define def auto
+#define elif else if
+#define None nullptr
+#define True true
+#define False false
+#define print printf
+
+// JavaScript-like macros
+#define let auto
+#define var auto
+#define function auto
+#define null nullptr
+#define undefined nullptr
+
+// Go-like macros
+#define func auto
+#define int64 int64_t
+#define int32 int32_t
+#define uint64 uint64_t
+#define uint32 uint32_t
+#define rune char
+#define nil nullptr
+
+// Ruby-like macros
+#define def auto
+#define nil nullptr
+#define elsif else if
+#define end }
+#define begin {
+#define puts printf
+#define attr_reader const auto &
+#define attr_writer auto &
+
+// Kotlin-like macros
+#define val const auto
+#define fun auto
+#define null nullptr
+
+#define optoin option
+#define bianliang auto
+
+// Some 15-213 Meme
+#define rdi i
+#define rsi j
+#define rdx k
+#define rcx l
+#define ret return
+
+// 这样就只有MSVC会用这个了
+#ifdef _MSC_VER
 #ifndef __STDC__
 #define ｛ {
 #define ｝ }
@@ -150,6 +204,7 @@
 #define ７ 7
 #define ８ 8
 #define ９ 9
+#endif
 #endif
 
 #endif
