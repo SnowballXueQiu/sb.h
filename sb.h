@@ -36,6 +36,12 @@
 #define cosnt const
 #define cosntexpr constexpr
 
+#define calss class
+#define pubilc public
+#define privae private
+#define protetced protected
+#define sttaic static
+
 #define u64 uint64_t
 #define i64 int64_t
 #define u32 uint32_t
@@ -44,6 +50,8 @@
 #define usize size_t
 
 #define self (*this)
+
+
 
 #ifndef __STDC__
 #define ｛ {
