@@ -5,9 +5,15 @@
 #pragma execution_character_set("utf-8")
 #endif
 
+#define use using
+#define spacename namespace
+#define sdt std
+#define tsd std
 #define mian main
 #define stadin std::cin
 #define stadout std::cout
+#define staendl std::endl
+#define staenld std::endl
 #define studio stdio
 #define tmeplate template
 #define True true
@@ -17,12 +23,14 @@
 #define retrun return
 #define rteurn return
 #define reutrn return
+#define retrn return
 #define constrauctor constructor
 #define destrouctor destructor
 #define vdio void
 #define video void
 #define viod void
 #define innt int
+#define itn int
 #define doubel double
 #define flaot float
 #define chat char
@@ -46,6 +54,7 @@
 #define self (*this)
 
 #ifndef __STDC__
+#define 面 main
 #define ｛ {
 #define ｝ }
 #define （ (
