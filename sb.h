@@ -24,6 +24,7 @@
 #define rteurn return
 #define reutrn return
 #define retrn return
+#define strcut struct
 #define constrauctor constructor
 #define destrouctor destructor
 #define vdio void
@@ -43,6 +44,7 @@
 #define whiie while 
 #define cosnt const
 #define cosntexpr constexpr
+#define ranodm random
 
 #define u64 uint64_t
 #define i64 int64_t
