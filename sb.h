@@ -24,6 +24,7 @@
 #define rteurn return
 #define reutrn return
 #define retrn return
+#define returtn return
 #define strcut struct
 #define constrauctor constructor
 #define destrouctor destructor
