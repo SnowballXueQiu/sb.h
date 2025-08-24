@@ -16,6 +16,7 @@
 #define staenld std::endl
 #define studio stdio
 #define tmeplate template
+#define templet template
 #define True true
 #define False false
 #define ture true
