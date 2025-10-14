@@ -21,6 +21,7 @@
 #define False false
 #define ture true
 #define fasle false
+#define flase false
 #define retrun return
 #define rteurn return
 #define reutrn return
@@ -47,6 +48,17 @@
 #define cosnt const
 #define cosntexpr constexpr
 #define ranodm random
+#define noexcep noexcept
+#define noexpet noexcept
+#define noexct noexcept
+#define noexpept noexcept
+#define noexempt noexcept
+#define noexcpet noexcept
+#define continiu continue
+#define continte continue
+#define continou continue
+#define contineu continue
+
 
 #define calss class
 #define pubilc public
