@@ -72,6 +72,7 @@
 #define i32 int32_t
 #define isize ssize_t
 #define usize size_t
+#define orf for
 
 #define self (*this)
 
